@@ -64,7 +64,7 @@ const DemoInformation: FC = () => (
     </List>
     <Box mt={2}>
       <Typography variant="body1">
-        See the project <a href="https://github.com/rjwats/esp8266-react/">README</a> for a full description of the demo project.
+        See the project <a href="https://github.com/kostdevking/esp8266-react/">README</a> for a full description of the demo project.
       </Typography>
     </Box>
   </SectionContent>
